@@ -1,1 +1,1 @@
-# demo-product-service
+# poc-product
