@@ -1,0 +1,15 @@
+	  insert into t_product (value, NAME, details) values 	(100,'product 1','some product details 1');	
+	  insert into t_product (value, NAME, details) values 	(200,'product 2','some product details 2');	
+	insert into t_product (value, NAME, details) values 	(300,'product 3','some product details 3');	
+	insert into t_product (value, NAME, details) values 	(400,'product 4','some product details 4');	
+	insert into t_product (value, NAME, details) values 	(500,'product 5','some product details 5');	
+	insert into t_product (value, NAME, details) values 	(600,'product 6','some product details 6');	
+	insert into t_product (value, NAME, details) values 	(700,'product 7','some product details 7');	
+	insert into t_product (value, NAME, details) values 	(800,'product 8','some product details 8');	
+	insert into t_product (value, NAME, details) values 	(900,'product 9','some product details 9');	
+	insert into t_product (value, NAME, details) values 	(1000,'product 10','some product details 10');	
+	insert into t_product (value, NAME, details) values 	(1100,'product 11','some product details 11');	
+	insert into t_product (value, NAME, details) values 	(1200,'product 12','some product details 12');	
+	insert into t_product (value, NAME, details) values 	(1300,'product 13','some product details 13');	
+	insert into t_product (value, NAME, details) values 	(1400,'product 14','some product details 14');	
+	insert into t_product (value, NAME, details) values 	(1500,'product 15','some product details 15');	
